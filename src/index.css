@@ -1,0 +1,11 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+.hero-section {
+  min-height: 50vh;
+  /* background-image: url('./assets/2.jpg'); */
+  background-image: url('./assets/download.jpg');
+  background-size: cover;
+  /* background-position: center; */
+  background-repeat: no-repeat;
+  color: white;
+}
